@@ -1,1 +1,1 @@
-## Consolidando Java Script
+## Consolidando Javascript

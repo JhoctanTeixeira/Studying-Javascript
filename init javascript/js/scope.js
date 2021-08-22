@@ -26,4 +26,6 @@ const d = 2
 console.log('> existe d depois do bloco?', d)
 
 
+var a = 1 * 18
 
+console.log(a)
